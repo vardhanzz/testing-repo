@@ -1,8 +1,8 @@
 Crimson
-Orange
+blue
 green
 Cyan
-purple
+white
 Charcoal
 Khaki
 Coral
